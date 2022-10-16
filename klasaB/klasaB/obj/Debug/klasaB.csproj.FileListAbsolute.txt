@@ -1,0 +1,8 @@
+C:\Users\Korisnik\source\repos\klasaB\klasaB\bin\Debug\klasaB.exe.config
+C:\Users\Korisnik\source\repos\klasaB\klasaB\bin\Debug\klasaB.exe
+C:\Users\Korisnik\source\repos\klasaB\klasaB\bin\Debug\klasaB.pdb
+C:\Users\Korisnik\source\repos\klasaB\klasaB\obj\Debug\klasaB.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\klasaB\klasaB\obj\Debug\klasaB.csproj.SuggestedBindingRedirects.cache
+C:\Users\Korisnik\source\repos\klasaB\klasaB\obj\Debug\klasaB.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\klasaB\klasaB\obj\Debug\klasaB.exe
+C:\Users\Korisnik\source\repos\klasaB\klasaB\obj\Debug\klasaB.pdb
